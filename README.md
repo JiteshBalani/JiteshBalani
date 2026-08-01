@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Jitesh%20Balani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GovTech%20AI%20%26%20Digital%20Forensics&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/banner.svg" width="100%" alt="Jitesh Balani - Full Stack Developer | GovTech AI & Digital Forensics"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Building+MERN-stack+products+that+ship;Applying+AI+to+GovTech+and+Digital+Forensics;Shipping+fast+with+Claude+Code+in+the+loop" alt="Typing SVG" />

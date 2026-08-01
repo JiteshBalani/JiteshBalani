@@ -22,6 +22,11 @@ I'm a Full Stack Developer at **[Karpuragaurai Technologies](https://github.com/
 - Domain: GovTech, digital forensics, applied AI
 - Working style: pragmatic, first-principles, fast iteration with Claude Code
 
+My previous stint as a full stack developer was at Evxperio Technologies(Bangalore). I contributed to the development of 2 products 
+
+- [Event Experio](https://www.eventexperio.com/) - B2B SaaS product for event planning & management companies to create and manage event related work like guest invites, RSVPs, vendor management, etc
+- [HomelyHaat](https://homelyhaat.com/) - Consumer tech product which is local marketplace platform connecting buyers with local home cooks, independent artisans, handicraft artists, etc.
+
 ## Tech Stack
 
 <div align="center">
